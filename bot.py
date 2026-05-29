@@ -32,9 +32,12 @@ ADMIN_PASSWORD = "pink1234"
 STORAGE_CHANNEL = -1003815866775
 
 CHANNELS = [
-
+    
+    ("𝐅𝐄𝐋𝐎𝐑𝐢𝐀", "https://t.me/+VOJr8t_ERogxMzc0"),
     ("Pink Channel | محافظ", "@pinklov3rs"),
-    ("CleanSheetX", "@CleanSheetX"),
+
+    #("Pink Channel | محافظ", "@pinklov3rs"),
+    #("CleanSheetX", "@CleanSheetX"),
 ]
 
 # ===========================
