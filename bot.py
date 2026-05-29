@@ -1,4 +1,4 @@
-
+from keep_alive import keep_alive
 
 import json
 import uuid
@@ -20,6 +20,7 @@ from telegram.ext import (
     filters
 )
 
+keep_alive()
 nest_asyncio.apply()
 
 # ========= تنظیمات =========
