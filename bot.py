@@ -33,6 +33,9 @@ STORAGE_CHANNEL = -1003815866775
 
 CHANNELS = [
     
+    -1001335479982,
+    -1002244333591
+
     ("𝐅𝐄𝐋𝐎𝐑𝐢𝐀", "https://t.me/+VOJr8t_ERogxMzc0"),
     ("‌𝖬𝟢𝖱𝖻𝖾𝖫 .", "https://t.me/+8xEA_iR3kDoyN2Zk"),
 
